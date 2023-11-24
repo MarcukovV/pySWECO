@@ -1,0 +1,12 @@
+highlight: new
+
+context: doc-workshared
+
+title: Apply Revision
+
+tooltip: >-
+  1. Applies revision and approver field to sheet(s)
+  
+  2. Removes revision and approver field from sheet(s)
+
+author: Vitalij Marcukov

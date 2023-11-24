@@ -1,0 +1,14 @@
+context: doc-workshared
+
+title: Worksets Inspector
+
+tooltip: >-
+  1. Select workset(s) that you wish to inspect
+  
+  2. Get lists of the following elements that reside on workset(s):
+   - Model Categories
+   - System Types
+   - Family Types
+   - Pipe Type
+
+author: Vitalij Marcukov

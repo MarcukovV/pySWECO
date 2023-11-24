@@ -1,0 +1,8 @@
+context: doc-project
+
+title: Update Calcs Mode
+
+tooltip: >-
+  Updates duct and pipe system calculation parameter mode to "None" or "Performance". 
+  
+author: Vitalij Marcukov

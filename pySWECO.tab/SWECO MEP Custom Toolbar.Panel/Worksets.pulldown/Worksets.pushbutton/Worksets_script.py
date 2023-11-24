@@ -27,7 +27,7 @@ workset_inspect       = forms.SelectFromList.show(
 						sorted_user_workset,
 						title="Workset(s) Inspection",
 						width = 450,
-						height = 900,
+						height = 700,
 						button_name="Inspect Workset(s)",
 						multiselect=True
 						)
